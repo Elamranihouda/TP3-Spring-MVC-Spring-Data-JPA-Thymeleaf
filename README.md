@@ -9,7 +9,7 @@
 ###### Nous avons créé une interface PatientRepository en étendant JpaRepository pour fournir les opérations CRUD de base.
 #### Afficher les patients :
 ###### Nous avons implémenté une vue Thymeleaf pour afficher la liste des patients. Un contrôleur Spring MVC a été créé pour gérer les requêtes liées à l'affichage des patients.
-<img width="875" alt="1" src="https://github.com/Elamranihouda/TP3-Spring-MVC-Spring-Data-JPA-Thymeleaf/assets/96799465/7e98e520-7f91-4129-b94e-311e54e0a64">
+<img width="875" alt="1" src="https://github.com/Elamranihouda/TP3-Spring-MVC-Spring-Data-JPA-Thymeleaf/assets/96799465/d0a5684e-de26-4224-8205-6f11a311171b">
 
 #### Faire la pagination :
 ###### Nous avons ajouté la pagination à la vue pour afficher les patients par pages. Cela permet de naviguer facilement à travers une grande liste de patients.
